@@ -1,0 +1,212 @@
+@charset "UTF-8";
+
+p {
+  color: white;
+  line-height: 30px;
+  text-align: center;
+  margin: 0;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 15px;
+}
+.hidden {
+  display: none;
+}
+
+#siteContainer {
+  margin: 0 auto;
+  width: 1000px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#mainHeader {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  overflow: hidden;
+
+}
+#mainNav {
+  margin-right: 50px;
+  width: 500px;
+  float: right;
+}
+
+#mainNav p {
+  background-color: darkgray;
+  line-height: 50px;
+}
+#logo {
+  margin-left: 30px;
+  width: 150px;
+  float: left;
+}
+
+#logo p {
+    background-color: darkgray;
+    line-height: 100px;
+}
+#PromoSection {
+  display: flex;
+  align-items: center;
+  background: #666666;
+  overflow: hidden;
+  height: 625px;
+}
+
+#PromoSection p {
+  margin-left: 50px;
+  line-height: 50px;
+  font-size: 50px;
+
+}
+
+#PromoImage {
+  width: 1000px;
+  background-color: darkgray;
+  text-align: center;
+  height: 400px;
+}
+#PromoImage2 {
+  width: 1000px;
+  text-align: center;
+  height: 200px;
+}
+
+#PromoImage p {
+  text-align: center;
+  margin-top: 170px;
+}
+
+  #HomepageTitle h1 {
+    width: 400px;
+    margin-bottom: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 50px;
+    margin-left: 100px;
+    margin-right: 75px;
+    text-align: left;
+  }
+
+  #HomepageTitle p {
+    width: 400px;
+    margin-bottom: 10px;
+    font-weight: lighter;
+    font-size: 20px;
+    color: #fff;
+    line-height: 20px;
+    margin-left: 100px;
+    margin-right: 75px;
+    text-align: left;
+  }
+
+  #mainFooter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    background-color: #cccccc;
+    overflow: hidden;
+    padding: 15px;
+  }
+  #copyRight {
+  background-color: darkgray;
+  float:right;
+  width: 300px;
+  margin-left: 250px;
+}
+#footer {
+float:right;
+width: 500px;
+height: 50px;
+font-size: 18px;
+}
+
+#contactForm{
+  width: 470px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#contactForm h1 {
+  width: 400px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 50px;
+  font-weight: bold;
+  color: #fff;
+  line-height: 50px;
+  margin-right: 75px;
+  text-align: left;
+}
+
+#contactForm h2 {
+  background-color: darkgrey;
+  width: 420px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: lighter;
+  font-size: 20px;
+  color: #fff;
+  line-height: 50px;
+  margin-right: 0px;
+  text-align: center;
+}
+
+
+#contactForm h3 {
+  background-color: darkgrey;
+  width: 420px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: lighter;
+  font-size: 20px;
+  color: #fff;
+  line-height: 50px;
+  margin-right: 0px;
+  text-align: center;
+}
+
+#contactForm h4 {
+  background-color: darkgrey;
+  width: 420px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: lighter;
+  font-size: 20px;
+  color: #fff;
+  line-height: 50px;
+  margin-right: 0px;
+  text-align: center;
+}
+
+#contactForm h5 {
+  background-color: darkgrey;
+  width: 420px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: lighter;
+  font-size: 20px;
+  color: #fff;
+  line-height: 200px;
+  margin-right: 0px;
+  text-align: center;
+}
+#contactForm h6 {
+  background-color: darkgrey;
+  width: 180px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: lighter;
+  font-size: 20px;
+  color: #fff;
+  line-height: 50px;
+  margin-right: 10px;
+  text-align: center;
+}

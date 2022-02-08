@@ -1,0 +1,31 @@
+logo : W=232px     X=75 px                  Nav: W=854 px         X=954 
+       H=169px     Y=0px                         H=98 px       Y=56 px
+
+promo section:   W=1922 px       
+                 H=1134px
+
+promo image:     W=911px
+                 H=711px
+
+
+footer:          W=1922 px
+                 H=200 px
+
+
+ContactForm: 
+fullname: W=711 px
+          N=102px
+
+Email:    W=711 px
+          N=102px
+
+Subject:  W=711 px
+          N=102px
+
+Message: W=711 px
+         N=331 px
+
+Send:    W=250 px
+         N=72px
+
+I haven't decided on the fonts i'm using yet.
